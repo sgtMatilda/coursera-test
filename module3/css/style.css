@@ -49,12 +49,18 @@ h1:before {
 
 /******** Content *********/
 
-h3:before {
-    display: block;
-    content: " ";
-    margin-top: -80px;
-    height: 80px;
-    visibility: hidden;
+/*anchor formating (nav bar covering part of sections fix*/
+#subtitle1 {
+    margin-top: -60px;
+    padding-top: 60px;
+}
+#subtitle2 {
+    margin-top: -60px;
+    padding-top: 60px;
+}
+#subtitle3 {
+    margin-top: -60px;
+    padding-top: 60px;
 }
 
 article {
